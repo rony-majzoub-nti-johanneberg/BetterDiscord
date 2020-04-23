@@ -9083,7 +9083,7 @@ input:checked+.slider-3Z3pGX,
 .content-1o0f9g {
 	margin: 0;
 	padding: 8px 12px 6px 12px;
-	background: #2b2f33;
+	/* background: #2b2f33; */
 	border-radius: 14px;
 	line-height: 1em;
 	font-size: 14px;
@@ -9410,7 +9410,6 @@ input:checked+.slider-3Z3pGX,
 }
 
 .wrapper-2aW0bm {
-	background-color: #34383b;
 	border-radius: 16px;
 	box-shadow: var(--shadow-2dp) !important;
 	border: none;
@@ -9419,7 +9418,7 @@ input:checked+.slider-3Z3pGX,
 
 .wrapper-2aW0bm:hover,
 .message-2qnXI6.selected-2P5D_Z .wrapper-2aW0bm {
-	box-shadow: var(--shadow-3dp) !important;
+	box-shadow: var(--shadow-2dp) !important;
 }
 
 .button-1ZiXG9 {
@@ -11913,7 +11912,7 @@ body:active .userPopout-3XzG_A:not(:active) {
 .header-2Lg0Oe,
 .header-QKLPzZ,
 .connectionHeader-2MDqhu {
-	background: rgba(0,0,0,0.15);
+	background: rgba(0,0,0,0);
 }
 
 .activity-11LB_k,
@@ -13635,7 +13634,7 @@ body:active .popout-3sVMXz.popoutBottomRight-2JrySt:not(:active) {
  */
 
 .layerContainer-yqaFcK {
-	/*z-index: 999999;*/
+	z-index: 999999;
 }
 
 .scale-3iLZhb.animatorTop-2Y7x2r {
